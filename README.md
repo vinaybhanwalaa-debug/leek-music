@@ -1,2 +1,2 @@
-# leek-music
+# LEEK-MUSIC
 My personal Android music streaming app
